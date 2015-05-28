@@ -12,9 +12,9 @@ public class Main {
 	
 	public static void displayPrintStatement()
 	{
-		System.out.println("Test1");
-		System.out.println("Test2");
-		System.out.println("Test3");
+		System.out.println("TEST1");
+		System.out.println("TEST2");
+		System.out.println("TEST3");
 	}
 
 }
