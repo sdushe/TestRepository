@@ -2,11 +2,14 @@ package cisco.com;
 
 public class Sample {
 	
-	int a=10;
+	int a[]={10,15,20,25,30};
 	
 	public void displayData()
 	{
-		System.out.println("Value of a :"+ a);
+		for (int i=0;i<a.length;i++)
+		{
+			System.out.println("Value");
+		}
 	}
 	
 }
