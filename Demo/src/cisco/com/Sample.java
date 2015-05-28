@@ -8,7 +8,7 @@ public class Sample {
 	{
 		for (int i=0;i<a.length;i++)
 		{
-			System.out.println("Value");
+			System.out.println("Value of a :"+a[i]);
 		}
 	}
 	
